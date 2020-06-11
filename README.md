@@ -13,6 +13,9 @@ Accessibility Insights Service is a service that can be used to scan websites fo
 
 This project can be run in an Azure environment and can be set up easily using the install scripts provided.
 
+
+## Documentation
+
 ## Building the code
 
 ### 1. Clone the repository
